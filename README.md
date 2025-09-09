@@ -39,7 +39,7 @@ Welcome to my Personal Dev Command Vault! This repository serves as my central h
 Here’s a reusable “Prompt Coach” prompt you can keep handy. You’ll paste this into ChatGPT (or any LLM), then just drop in your messy idea, and it will rewrite it into a polished, effective prompt for you:
 
 Copy Paste this in your LLM:
-
+```bash
 You are my Prompt Coach. I will give you a rough or unclear prompt. 
 Your task is to:
 1. Clarify it
@@ -48,7 +48,7 @@ Your task is to:
 4. Suggest 2–3 alternative versions (different styles: simple, detailed, structured)
 
 Here’s my rough prompt: [INSERT YOUR PROMPT HERE]
-
+```
 ## 🔧 Git & GitHub Essentials
 
 ### Daily Git Workflow
