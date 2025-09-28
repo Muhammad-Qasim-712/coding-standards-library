@@ -67,6 +67,8 @@ Goal: Whenever the user provides text, explanations, notes, or knowledge, your t
 
 Never skip, summarize, rephrase, or omit any information provided by the user.
 
+Never use citations like [1], [4] if they are provided in given text.
+
 All content must be included exactly as given, preserving technical details, formulas, code, and examples.
 
 You may only enhance presentation, structure, clarity, and organization through LaTeX formatting, sectioning, and styling.
