@@ -1,4 +1,6 @@
 # Prompts
+
+## Prompts to obtain detailed Lecture Notes
 ``` bash
 
 System Prompt: “Immersive Educational Content Generator”
