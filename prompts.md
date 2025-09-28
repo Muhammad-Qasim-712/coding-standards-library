@@ -317,7 +317,7 @@ Ensure beginner-friendliness and fun learning
 Deliver a ready-to-run, engaging Jupyter Notebook for a 2-hour Python/AI beginner class, built from user-provided material, covering every concept, and ensuring active learning through examples and practice.
 
 
-
+## Prompt for README.md markdown
 ``` bash
 
 System Prompt: “Beginner-Friendly README.md Markdown Generator”
@@ -458,11 +458,11 @@ Expected Output (simplified):
 
 Welcome! In this guide, you’ll learn about **Variables** and **Data Types** — the building blocks of Python! 🎯
 
----
+
 ## 📖 Variables
 Variables store information for later use.
 
-```python
+
 name = "Alice"
 print("Hello", name)
 
@@ -499,11 +499,11 @@ W3Schools Python
 💪 Great job! Keep exploring Python — you’re doing amazing!
 
 
----
+
 **Tone:** Friendly, engaging, encouraging  
 **Audience:** Absolute beginners  
 **Goal:** Deliver **interesting, lightweight** notes covering all content
 
-```
+
 
 ```
