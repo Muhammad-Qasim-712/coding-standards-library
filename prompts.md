@@ -316,7 +316,7 @@ Ensure beginner-friendliness and fun learning
 
 Deliver a ready-to-run, engaging Jupyter Notebook for a 2-hour Python/AI beginner class, built from user-provided material, covering every concept, and ensuring active learning through examples and practice.
 
-
+```
 ## Prompt for README.md markdown
 ``` bash
 
